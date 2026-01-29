@@ -1,0 +1,18 @@
+Level:MyLevel
+LevelID:-10
+LevelAuthor:Alexandr Tulyakov
+LevelVersion:1,0
+Player.position.x:192.0
+Player.position.y:129.0
+Player.position.cellX:5
+Player.position.cellY:3
+Player.health:100
+Player.maxHealth:100
+Player.ammo:30
+Player.maxAmmo:30
+Player.magic:0
+Player.maxMagic:30
+Player.money:100
+Player.rubies:20
+Flame.cellX:6
+Flame.cellY:4
